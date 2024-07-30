@@ -1,0 +1,10 @@
+{
+  "_all_product_from_wishlist_fetch_successfully_": "Tous les produits de WishList récupérer avec succès",
+  "_product_is_not_exist_with_this_uuid_": "Le produit avec cet uuid n'existe pas",
+  "_product_is_already_exist_in_wishlist_": "Le produit existe déjà dans la liste de souhaits",
+  "_product_successfully_added_in_wishlist_": "Produit avec succès ajouté dans la liste de souhaits",
+  "_error_while_adding_product_to_wishlist_": "Erreur tout en ajoutant du produit à la liste de souhaits",
+  "_we_could_not_find_what_you_are_looking_for": "Nous n'avons pas pu trouver ce que vous recherchez.",
+  "_product_successfully_removed_from_wishlist_": "Produit avec succès de la liste de souhaits",
+  "_error_while_removing_product_from_wishlist_": "Erreur tout en supprimant le produit de la liste de souhaits"
+}

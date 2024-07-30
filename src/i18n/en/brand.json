@@ -1,0 +1,22 @@
+{
+  "Hello": "Hello",
+  "Success": "Success",
+  "_brand_fetched_successfully": "Brand fetched successfully.",
+  "_record_already_exists": "Record already exists",
+  "_we_could_not_find_what_you_are_looking_for": "We could not find what you are looking for.",
+  "_brand_created_successfully": "Brand created successfully.",
+  "_error_while_creating_brand": "Error while creating brand.",
+  "_error_while_creating_brand_translation": "Error while creating brand translation.",
+  "_brand_visibility_updated_successfullt": "Brand visibility updated successfully.",
+  "_error_while_updating_brand_visibility": "Error while updating brand visibility.",
+  "_brand_with_same_name_already_exists": "Brand with same name already exists.",
+  "_brand_updated_successfully": "Brand updated successfully.",
+  "_error_while_updating_brand_translation": "Error while updating brand translation.",
+  "_error_while_updating_brand": "Error while updating brand.",
+  "_brand_deleted_successfully": "Brand deleted successfully.",
+  "_error_while_deleting_brand_translation": "Error while deleting brand translation.",
+  "_error_while_deleting_brand": "Error while deleting brand.",
+  "_brand_restore_successfully": "Brand restored successfully.",
+  "_error_while_restoring_brand_translation": "Error while restoring brand translation.",
+  "_error_while_restoring_brand": "Error while restoring brand."
+}

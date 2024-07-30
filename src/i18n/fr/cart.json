@@ -1,0 +1,13 @@
+{
+  "_all_product_from_cart_fetch_successfully_": "Tous les produits de chariot récupérent avec succès",
+  "_product_is_not_exist_with_this_uuid_": "Le produit n'existe pas avec cet uuid",
+  "_product_successfully_added_in_cart_": "Produit avec succès ajouté dans le panier",
+  "_we_could_not_find_what_you_are_looking_for": "Nous n'avons pas pu trouver ce que vous recherchez.",
+  "_error_while_adding_product_to_cart_": "Erreur tout en ajoutant du produit dans le panier",
+  "_product_successfully_removed_from_cart_": "Le produit retirer avec succès du panier",
+  "_error_while_removing_product_from_cart_": "Erreur lors de la suppression du produit du panier",
+  "_record_already_exists": "Un enregistrement existe déjà.",
+  "_cart_updated_successfully": "Panier mis à jour avec succès",
+  "_error_while_updating_cart": "Erreur lors de la mise à jour du panier",
+  "_product_is_already_exist_in_cart_":"Le produit existe déjà dans le panier"
+}

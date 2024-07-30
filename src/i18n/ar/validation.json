@@ -1,0 +1,10 @@
+{
+  "_product_uuid_is_required": "المنتج uuid مطلوب",
+  "_product_uuid_must_be_a_string": "يجب أن يكون المنتج uuid سلسلة",
+  "_quantity_is_required_": "الكمية مطلوبة",
+  "_price_is_required_": "السعر مطلوب",
+  "_price_must_be_number_": "يجب أن يكون السعر رقم",
+  "_quantity_must_be_number_": "يجب أن يكون السعر رقم",
+  "_price_cannot_be_negative_": "لا يمكن أن يكون السعر سلبيًا",
+  "_quantity_can_not_be_negative_": "لا يمكن أن تكون الكمية سلبية"
+}

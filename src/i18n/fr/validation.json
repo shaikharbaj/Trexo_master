@@ -1,0 +1,10 @@
+{
+  "_product_uuid_is_required": "Le produit uuid est requis",
+  "_product_uuid_must_be_a_string": "Le produit UUID doit être une chaîne",
+  "_quantity_is_required_": "La quantité est requise",
+  "_price_is_required_": "Le prix est requis",
+  "_price_must_be_number_": "Le prix doit être le nombre",
+  "_quantity_must_be_number_": "Le prix doit être le nombre",
+  "_price_cannot_be_negative_": "Le prix ne peut pas être négatif",
+  "_quantity_can_not_be_negative_": "La quantité ne peut pas être négative"
+}
